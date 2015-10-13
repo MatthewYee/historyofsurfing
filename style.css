@@ -1,0 +1,18 @@
+body {
+    background-image : url("http://images6.alphacoders.com/407/407732.jpg");
+    font-family: 'Passion One', cursive;
+    color: #cfc2c3;
+}
+
+.intro h2{
+    color : white;
+
+}
+.intro p{
+    font-family: 'Orbitron', sans-serif;;
+}
+
+.profile h2{
+    color : white;
+}
+
